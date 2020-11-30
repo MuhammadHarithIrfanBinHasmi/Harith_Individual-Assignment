@@ -1,0 +1,84 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+/*----------Navigation------*/
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar-brand img
+{
+	height: 65px;
+	padding-left: 30px;
+}
+.navbar-nav li
+{
+	padding: 0 10px;
+
+}
+.navbar-nav li a
+{
+	float: right; 
+	text-align: left;
+}
+#nav-bar ul li a:hover
+{
+	color: #F9EBEA!important;
+}
+.navbar
+{
+	background: #5D6D7E
+}
+.navbar-toggler
+{
+	border: none!important;
+}
+.nav-link
+{
+	color: #000000!important
+	font-weight: 600;
+	font-size: 19px;
+}
+/*-------About-----------*/
+#about
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #641E16;
+}
+#about .btn
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.about-content
+{
+	padding-top: 20px;
+}
+.skills-bar
+{
+	margin-bottom: 6px;
+	font-weight: 600;
+}
+.progress-bar
+{
+	border-radius: 16px;
+}
+.progress
+{
+	border-radius: 16px !imortant;
+	margin-bottom: 20px;
+}
+/*----footer----------*/
+#footer
+{
+	background: #34495E;
+	color: #F9EBEA;
+	padding: 20px;
+	font-family: Bahnschrift Condensed;
+	font-size: 20px;
+}
